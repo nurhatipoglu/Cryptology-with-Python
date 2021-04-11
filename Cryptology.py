@@ -9,7 +9,7 @@ def uzunluk(alfabe):
         s=s+1
     return s
     
-#fonksiyon, metinin icindeki karakterlerin alfabede kacinci indiste oldugunu bulur.
+#fonksiyon, metinin icindeki karakterlerin alfabede kacinci indiste oldugunu bulur
 def index(mesaj,i):
     s=0
     s2=0
